@@ -1,5 +1,7 @@
 # Bridge Simulator
 
+![image](/bridge.png)
+
 ## Context
 
 My university physics class required me to design the cheapest bridge that could support some weight over some distance. With my extensive experience in designing bridges in *Poly Bridge 2*, I thought it'd be easy. I immediately drew up designs.
@@ -22,4 +24,8 @@ I soon realized I could use this program to simulate all possible variations of 
 
 If I were feeling smart, I would call this stochastic gradient descent. But actually, it's just tumbling down N-dimensional hyperspace until we can't tumble down anymore. 
 
+
+## Report
+
+[Here is an excerpt](/report.pdf) from my submitted report that details more about the bridge, solving procedures, and cost-minimization random algorithm.
 
